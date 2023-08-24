@@ -20,6 +20,10 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
         }
+
+        int ciao= sum.somma(23,56);
+
+        System.out.println("ecco la somma: " + ciao);
     }
 }
 
